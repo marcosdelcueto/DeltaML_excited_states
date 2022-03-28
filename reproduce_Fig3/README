@@ -1,0 +1,3 @@
+To generate Fig. 3, run: $> python3 plot_Fig3.py
+
+This script reads data from 'results_train.csv' and 'results_test.csv' and plots the results with and without the ML correction
