@@ -42,7 +42,7 @@ def preprocess(df,df_test,xcols,separate_test):
     xcols: list
         list of features
     separate_test: bool
-        wether to use test set or not
+        whether to use test set or not
 
     Returns
     -------
@@ -120,7 +120,7 @@ def func_ML(X,y,X_test,y_test,separate_test,gamma_fp,gamma_rdf,regularization):
     y_test: np.array
         target property of test set
     separate_test: bool
-        wether to use test set or not
+        whether to use test set or not
     gamma_fp: float
         weight of fp in kernel
     gamma_rdf: float
