@@ -1,3 +1,3 @@
-For convenience, train set has been split in five parts (train_data_??.zip). To merge them, you can run: $> bash merge_train_data.sh
+Due to size constraints, train set has been split in five parts (train_data_01-05.zip). To merge them, you can run: $> bash merge_train_data.sh
 
 Finally, train set will be in 'train_data.csv', and test set is already in 'test_data.csv'
