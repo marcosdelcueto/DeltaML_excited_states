@@ -247,7 +247,7 @@ if __name__ == '__main__':
     train_results_csv = 'results_train.csv'
     test_results_csv = 'results_test.csv'
     folder_path = os.getcwd() + "/database/"
-    results_path = os.getcwd() + "/reproduce_Fig3/"
+    results_path = os.getcwd() + "/"
     
     separate_test = True
     xcols = ['fingerprint','RDF']
