@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 - **database**: directory containing the csv files with the train dataset and the test set (see *Database* below)
 
-- **reproduce_main_results**: directory containing the necessary scripts to reproduce the main results presented in the article, and reproduce Figure 3 (see *Usage and examples* below)
+- **reproduce_Fig3**: directory containing the necessary scripts to reproduce the main results presented in the article in Figure 3 (see *Usage and examples* below)
 
 ---
 
